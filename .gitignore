@@ -22,3 +22,15 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+### Maven ###
+.mvn/
+
+### Others ###
+.jar
+.war
+.zip
+.rar
+.tar
+.gz
+
